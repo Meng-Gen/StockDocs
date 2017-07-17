@@ -6,6 +6,7 @@
 
 ## Links
 - 公開資訊觀測站: http://mops.twse.com.tw/mops/web/index
+- 台灣證券交易所: http://www.twse.com.tw/zh/
 
 ## Books
 - 郭恭克《獵豹財務長投資魔法書》
